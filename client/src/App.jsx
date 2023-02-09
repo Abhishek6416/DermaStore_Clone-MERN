@@ -12,6 +12,7 @@ import { ProductPage } from "./Pages/Product/Productpage";
 import { CartAk } from "./Pages/Cart/CartAk";
 // import { Payment } from "./Pages/Payment/Payment";
 import { CheckoutPage } from "./Pages/Payment/CheckoutPage";
+console.log("connected to backend")
 
 function App() {
   return (
