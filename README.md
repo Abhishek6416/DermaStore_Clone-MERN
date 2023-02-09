@@ -74,7 +74,6 @@ This is the Checkout page, which is the last page of the website. The user will 
 > ### • [Abhishekh Kumar](https://github.com/Abhishek6416)
 > ### • [Md Furkan](https://github.com/furkan9623)
 > ### • [Himangshu Mahato](https://github.com/himangshumahato82)
-> ### • [Anjali Mondal](https://github.com/anjali280)
 > ### • [md shabaz](https://github.com/Meshabaz)
 
 
