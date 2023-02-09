@@ -59,7 +59,7 @@ export const Navbar = () => {
     };
     debounce();
   }
-
+ console.log("navbar created")
   const getSearchData = (param) => {
     fetch(
       `https://dermstoreproducts.cyclic.app/dermproducts?q=${param}&_limit=5`
