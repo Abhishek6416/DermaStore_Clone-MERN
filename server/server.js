@@ -16,7 +16,7 @@ app.use("/products", productRouter);
 app.use("/items", cart);
 
 app.get("/", (req, res) => {
-  res.send("Hello World! this abhisk");
+  res.send("Hello World! this abhishekh");
 });
 
 const port = process.env.PORT || 8080;
