@@ -9,9 +9,9 @@
   margin: 0 30px;
   padding: 10px;
    width: 100%; 
-   position: sticky;
+  /* position: sticky;
   top: 0;
-  right: 0; 
+  right: 0; */
   /* position: fixed;
   background-color: green; */
 }
