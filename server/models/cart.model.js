@@ -5,7 +5,7 @@ const cartSchema = new mongoose.Schema(
         id:String,
         brand_logo_url: String,
         name: String,
-        description: String,
+        // description: String,
         img_url_1: String,
         img_url_2: String,
         img_url_3: String,
