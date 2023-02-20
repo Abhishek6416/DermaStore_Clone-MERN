@@ -15,7 +15,7 @@ export const FromBlogs = () => {
         <img src="https://static.thcdn.com/images/small/webp/widgets/208-us/13/Augustinus-Bader_1659128996-848x672-013513.jpg" />
         <h6>
           Introducing Augustinus Bader: Your One Stop Shop for Science-Backed
-          Beauty
+          Beauty products
         </h6>
       </div>
       <div>
