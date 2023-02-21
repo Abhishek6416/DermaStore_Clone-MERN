@@ -30,7 +30,7 @@ export const CheckoutPage = () => {
   // 	// getData();
   // }, []);
   console.log(TotalPay);
-  console.log(TotalPay);
+  
   //   async function getData() {
   //     const data = await fetch("https://ayush05.herokuapp.com/dermcart").then((d) =>
   //       d.json()
