@@ -8,11 +8,11 @@ const StyleCard = styled.div`
   gap: 10px;
   align-items: center;
 
-  ${'' /* & p {
+  & p {
     border: 1px solid grey;
     padding: 5px 12px;
     cursor: default;
-  } */}
+  }
 
   & > img {
     width: 100%;
