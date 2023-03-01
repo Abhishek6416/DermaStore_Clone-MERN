@@ -9,5 +9,7 @@ const connection = mongoose.connect(
   `mongodb+srv://abhishekh:abhishek123@ecommercewebsite.ctbpksc.mongodb.net/?retryWrites=true&w=majority`
 );
 // mongodb+srv://abhishekh:abhishek123@ecommercewebsite.ctbpksc.mongodb.net/?retryWrites=true&w=majority
+// mongodb+srv://abhishekh:abhishek123@ecommercewebsite.ctbpksc.mongodb.net/?retryWrites=true&w=majority
+
 
 module.exports = connection;
