@@ -5,15 +5,15 @@ const cart = express.Router();
 
 //to get cart data url
 cart.get("/:userId", async (req, res) => {
-  // try {
-  //   const { userId } = req.params;
-  //   const cartdata = await usermodel.find({
-  //     _id: userId,
-  //   });
-  //   res.status(200).send(cartdata);
-  // } catch (error) {
-  //   res.status(404).send(error.message);
-  // }
+  try {
+    const { userId } = req.params;
+    const cartdata = await usermodel.find({
+      _id: userId,
+    });
+    res.status(200).send(cartdata);
+  } catch (error) {
+    res.status(404).send(error.message);
+  }
 });
 
 cart.get("/", (req, res) => {
