@@ -1,6 +1,6 @@
 # DermaStore_Clone-MERN
 
-# Deployed-Link:dermastore-group-7ffd6b.netlify.app/
+Deployed-Link:dermastore-group-7ffd6b.netlify.app/
 *System display size 💻 = 1024 to 1680 pixels*
 <br>
 # Problem Statement
